@@ -35,7 +35,7 @@ To address this challenge, our system combines:
 This allows the framework to perform robust harmful meme detection across multiple languages.
 
 ---
-
+```
 ## 🗂 Repository Structure
 ## BiasBreakers
 │
@@ -46,7 +46,7 @@ This allows the framework to perform robust harmful meme detection across multip
 ## │ └── qwen_vlm
 ## │
 ## └── selected_data
-
+```
 
 
 ### Folder Description
