@@ -133,24 +133,6 @@ IIT (BHU), Varanasi
 
 📧 nilendu.adhikary.cd.cse23@iitbhu.ac.in
 
-📚 Citation
-
-If you use this repository in your research, please cite:
-
-@inproceedings{biasbreakers2026,
-  title={CLIP It Before It Slips: Multimodal Detection of Homophobic and Transphobic Memes},
-  author={Team BiasBreakers},
-  year={2026}
-}
 
 ⭐ If you find this repository useful, please consider starring the repo!
 
-
-If you want, I can also give you a **much cooler README (top-tier ML repo style)** with:
-
-- 🚀 **center banner**
-- 📊 **results table**
-- 🧠 **model architecture diagram**
-- 🔥 **GitHub stats badges**
-
-It will make your repo look like **HuggingFace / OpenAI style**.
