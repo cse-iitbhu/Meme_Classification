@@ -12,22 +12,27 @@ For questions, additional code, or dataset access:
 
 Nilendu Adhikary
 IIT (BHU), Varanasi
-
-📧 nilendu.adhikary.cd.cse23@iitbhu.ac.in
+nilendu.adhikary.cd.cse23@iitbhu.ac.in
+suplife24@gamil.com
 ---
 
 ## 📌 Project Overview
 
-Memes combine **visual content and textual cues**, making them difficult to classify using traditional models.
+Memes are inherently multimodal, combining images, embedded text, sarcasm, and contextual signals. Detecting harmful intent in memes is challenging because the hate may arise from the interaction between visual content and textual components.
 
-Our system integrates:
+To address this challenge, our system combines:
 
-- 🖼 Image understanding
-- 📝 OCR-based text extraction
-- 🤖 Vision-Language Models
-- 🌍 Multilingual classification
+🖼 Visual Understanding using pretrained vision encoders
 
-to build a robust **multimodal meme classification pipeline**.
+📝 OCR-based Text Extraction from meme images
+
+🤖 Vision-Language Models for semantic understanding
+
+🔗 Multimodal Feature Fusion
+
+🌍 Multilingual Processing for English, Hindi, and Chinese
+
+This allows the framework to perform robust harmful meme detection across multiple languages.
 
 ---
 
