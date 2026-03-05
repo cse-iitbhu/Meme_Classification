@@ -23,15 +23,15 @@ to build a robust **multimodal meme classification pipeline**.
 ---
 
 ## 🗂 Repository Structure
-BiasBreakers
+## BiasBreakers
 │
-├── code
-│ ├── chinese_final
-│ ├── english_final
-│ ├── hindi_final
-│ └── qwen_vlm
-│
-└── selected_data
+## ├── code
+## │ ├── chinese_final
+## │ ├── english_final
+## │ ├── hindi_final
+## │ └── qwen_vlm
+## │
+## └── selected_data
 
 
 
