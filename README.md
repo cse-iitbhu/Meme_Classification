@@ -10,10 +10,10 @@ The system integrates OCR extraction, Vision-Language Models (VLMs), CLIP-based 
 
 For questions, additional code, or dataset access:
 
-Nilendu Adhikary
-IIT (BHU), Varanasi
+```
 nilendu.adhikary.cd.cse23@iitbhu.ac.in
 suplife24@gamil.com
+```
 ---
 
 ## 📌 Project Overview
