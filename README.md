@@ -33,6 +33,22 @@ To address this challenge, our system combines:
 🌍 Multilingual Processing for English, Hindi, and Chinese
 
 This allows the framework to perform robust harmful meme detection across multiple languages.
+🏆 Shared Task
+
+This work was developed for the LT-EDI 2026 Shared Task on Detecting Homophobia and Transphobia in Memes.
+
+📄 Task Link
+\href{https://www.codabench.org/competitions/11335/}
+
+The goal of the task is to classify memes into:
+
+Homophobic
+
+Transphobic
+
+Non Anti-LGBT
+
+using both image and textual information.
 
 ---
 ```
