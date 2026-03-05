@@ -1,10 +1,19 @@
 # 🧠 BiasBreakers – Multilingual Meme Classification
 
-🚀 **Official implementation of the BiasBreakers meme classification framework**  
-📚 Developed for research on **multimodal harmful meme detection**
+🚀 Official implementation of the BiasBreakers framework
+📚 Developed for the LT-EDI 2026 Shared Task on Homophobic and Transphobic Meme Detection
 
-The system leverages **Vision-Language Models (VLMs)** and **multilingual pipelines** to detect harmful content in memes across **English, Hindi, and Chinese**.
+This repository contains the implementation of BiasBreakers, a multimodal meme classification framework designed to detect homophobic and transphobic content across English, Hindi, and Chinese memes.
 
+The system integrates OCR extraction, Vision-Language Models (VLMs), CLIP-based multimodal embeddings, and transformer classifiers to effectively capture the interaction between visual and textual cues in memes.
+📬 Contact
+
+For questions, additional code, or dataset access:
+
+Nilendu Adhikary
+IIT (BHU), Varanasi
+
+📧 nilendu.adhikary.cd.cse23@iitbhu.ac.in
 ---
 
 ## 📌 Project Overview
@@ -124,14 +133,7 @@ selected_data/
 
 If you require additional components or clarification regarding the implementation, please contact us.
 ```
-📬 Contact
 
-For questions, additional code, or dataset access:
-
-Nilendu Adhikary
-IIT (BHU), Varanasi
-
-📧 nilendu.adhikary.cd.cse23@iitbhu.ac.in
 
 
 ⭐ If you find this repository useful, please consider starring the repo!
