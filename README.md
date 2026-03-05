@@ -37,8 +37,7 @@ This allows the framework to perform robust harmful meme detection across multip
 
 This work was developed for the LT-EDI 2026 Shared Task on Detecting Homophobia and Transphobia in Memes.
 
-📄 Task Link
-\href{https://www.codabench.org/competitions/11335/}
+📄 Task Link {https://www.codabench.org/competitions/11335/}
 
 The goal of the task is to classify memes into:
 
