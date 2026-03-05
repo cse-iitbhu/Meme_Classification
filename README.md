@@ -93,20 +93,6 @@ Final classification is performed on fused representations.
 
 ---
 
-## 🚀 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Libraries & Frameworks
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/-HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
-![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-4B8BBE?style=flat)
-![EasyOCR](https://img.shields.io/badge/-EasyOCR-2C3E50?style=flat)
-![FAISS](https://img.shields.io/badge/-FAISS-0099cc?style=flat)
-
 ---
 
 ## 📦 Installation
